@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P5C1LF_android_hf</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="new_note_item">New Note</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="edit_note_item">Edit Note</string>
+</resources>
